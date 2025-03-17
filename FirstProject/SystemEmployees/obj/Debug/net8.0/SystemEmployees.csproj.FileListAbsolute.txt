@@ -1,0 +1,15 @@
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\bin\Debug\net8.0\SystemEmployees.exe
+C:\Users\100DaysOfCode\FirstProject\SystemEmployees\bin\Debug\net8.0\SystemEmployees.deps.json
+C:\Users\100DaysOfCode\FirstProject\SystemEmployees\bin\Debug\net8.0\SystemEmployees.runtimeconfig.json
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\bin\Debug\net8.0\SystemEmployees.dll
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\bin\Debug\net8.0\SystemEmployees.pdb
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.AssemblyInfoInputs.cache
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.AssemblyInfo.cs
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.csproj.CoreCompileInputs.cache
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.dll
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\refint\SystemEmployees.dll
+c:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.pdb
+C:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.genruntimeconfig.cache
+C:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\ref\SystemEmployees.dll
+C:\Users\100DaysOfCode\FirstProject\SystemEmployees\obj\Debug\net8.0\SystemEmployees.sourcelink.json
