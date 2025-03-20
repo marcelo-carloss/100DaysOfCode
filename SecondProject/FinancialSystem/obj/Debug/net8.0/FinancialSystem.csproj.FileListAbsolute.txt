@@ -1,0 +1,15 @@
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\bin\Debug\net8.0\FinancialSystem.exe
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\bin\Debug\net8.0\FinancialSystem.deps.json
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\bin\Debug\net8.0\FinancialSystem.runtimeconfig.json
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\bin\Debug\net8.0\FinancialSystem.dll
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\bin\Debug\net8.0\FinancialSystem.pdb
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.AssemblyInfoInputs.cache
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.AssemblyInfo.cs
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.csproj.CoreCompileInputs.cache
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.sourcelink.json
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.dll
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\refint\FinancialSystem.dll
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.pdb
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\FinancialSystem.genruntimeconfig.cache
+C:\Users\100DaysOfCode\SecondProject\FinancialSystem\obj\Debug\net8.0\ref\FinancialSystem.dll
